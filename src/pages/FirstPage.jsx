@@ -15,7 +15,7 @@ export const FirstPage = () => {
     return (
         <>
             <h1>Hola, soy miembro de MadConde</h1>
-            <h1>Contador</h1>
+            <h1>Contador Mejorado</h1>
             <h1>Este contador es el número de personas a favor de este nuevo nombre</h1>
             <h1>{conde}</h1>
             <button onClick={() =>modificar(1)}>+1</button>
